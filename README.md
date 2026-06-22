@@ -27,15 +27,25 @@ To analyze Blinkit's sales data and generate actionable insights related to:
 * Average Rating
 
 ---
+## 📸 Dashboard Preview
 
-## 📈 Dashboard Insights
+![Blinkit Sales Dashboard](images/blinkit-dashboard.png)
 
-* Sales performance across different outlet types
-* Product category-wise sales analysis
-* Outlet size and location performance
-* Customer rating distribution
-* Item type contribution to total sales
-* Sales trends and performance comparison
+---
+
+## 📊 Dashboard Highlights
+
+* Total Sales: $1.2M
+* Average Sales: 141
+* Number of Items: 8,523
+* Average Rating: 3.9
+* Outlet Establishment Analysis
+* Outlet Size & Location Performance
+* Item Type Analysis
+* Fat Content Analysis
+* Outlet Type Performance Comparison
+* Interactive Filters for Dynamic Analysis
+
 
 ---
 
@@ -47,12 +57,6 @@ To analyze Blinkit's sales data and generate actionable insights related to:
 * Data Modeling
 * Data Visualization
 
-
----
-
-## 📸 Dashboard Preview
-
-Add dashboard screenshots in the Images folder and display them here.
 
 ---
 
