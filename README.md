@@ -1,4 +1,17 @@
+
 # 🛒 Blinkit Sales Analysis Dashboard
+
+## 📑 Table of Contents
+
+* [📌 Project Overview](#-project-overview)
+* [🎯 Business Objective](#-business-objective)
+* [📊 Key KPIs](#-key-kpis)
+* [📸 Dashboard Preview](#-dashboard-preview)
+* [📊 Dashboard Highlights](#-dashboard-highlights)
+* [🛠️ Tools & Technologies](#️-tools--technologies)
+* [👨‍💻 Author](#-author)
+
+---
 
 ## 📌 Project Overview
 
@@ -30,7 +43,7 @@ To analyze Blinkit's sales data and generate actionable insights related to:
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/Blinkit Dashboard Image.jpg" width="1000">
+  <img src="Blinkit Dashboard Image.jpg" width="1000">
 </p>
 ---
 
