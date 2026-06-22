@@ -29,8 +29,9 @@ To analyze Blinkit's sales data and generate actionable insights related to:
 ---
 ## 📸 Dashboard Preview
 
-![Blinkit Sales Dashboard](images/blinkit-dashboard.png)
-
+<p align="center">
+  <img src="images/Blinkit Dashboard Image.jpg" width="1000">
+</p>
 ---
 
 ## 📊 Dashboard Highlights
